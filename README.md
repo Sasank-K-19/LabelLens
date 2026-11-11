@@ -1,4 +1,4 @@
-# LabelLens — Hybrid Food Label Reader (IPCV Project)
+# LabelLens — Hybrid Food Label Reader
 
 LabelLens reads packaged-food labels with a **React frontend + Python FastAPI backend + PaddleOCR**. It is designed to be more robust than a single browser OCR pass by testing multiple image-processing variants, keeping OCR text/line confidence for review, and parsing nutrition and ingredient images separately.
 
